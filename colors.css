@@ -1,0 +1,11 @@
+circle{
+	fill:blue;
+}
+
+rect{
+	fill:purple;
+}
+
+#drawing_pad{
+	outline:1px solid black;
+}
