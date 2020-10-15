@@ -11,7 +11,7 @@ We see that for people with 1 co-authorship each share a low percentage of peopl
 There is also an animation that gives the user the ability to look at each group individually.
 
 Click Below:  
-[For full documentation on this project](https://github.com/lucianogiannini/Chaos-Fractals-and-Computer-Graphics/blob/main/LC%20Lab%201.pdf)
+[For full documentation on this project](https://github.com/lucianogiannini/VAST2020/blob/master/Data%20Visualizations%20Final%20Project.pdf)
 
 
 ![alt text](https://i.gyazo.com/ee7dc63cd68f486cfea27649d532f83d.png)
