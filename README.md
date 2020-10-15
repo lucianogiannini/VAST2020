@@ -8,6 +8,6 @@ If we take a look at the section that shows the percent of people that have 1 Co
 Each ribbon shows the percent of people that have 1 co-authorship with another person that is in another group.  
 We see that for people with 1 co-authorship each share a low percentage of people in each other group.  
 
-There is also an animation that gives the user to look at each group individually.
+There is also an animation that gives the user the ability to look at each group individually.
 
 ![alt text](https://i.gyazo.com/ee7dc63cd68f486cfea27649d532f83d.png)
